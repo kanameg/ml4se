@@ -2,6 +2,7 @@ ARG VER="3.9"
 FROM python:${VER}-slim
 
 RUN apt-get update && apt-get install -y tzdata \
+&& apt-get install -y git \
 && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /tmp/work
