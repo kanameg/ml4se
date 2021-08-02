@@ -1,4 +1,4 @@
-# Santander Product Recommendation
+## ITエンジニアのための機械学習理論入門
 
-Can you pair products with people?
-https://www.kaggle.com/c/santander-product-recommendation/overview/description
+こちらの古い方を図書館で借りて勉強
+https://gihyo.jp/book/2015/978-4-7741-7698-7
